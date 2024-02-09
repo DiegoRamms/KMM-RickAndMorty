@@ -1,7 +1,6 @@
-package di
+package domain
 
 import data.model.CharactersResponse
-import domain.BaseResult
 
 interface RickMortyRepository {
 
